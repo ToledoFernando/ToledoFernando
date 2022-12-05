@@ -5,7 +5,11 @@
 > ## About me
 
 ```
-Full Stack Developer con formación como Desarrollador Web. Experiencia trabajando en NodeJS, React, Redux, SQL entre otras tecnologías del sector. Trabaje en la creación de una pagina para la administracion de habitaciones de un Hostel, la cual podria agregar, eliminar y dar de baja las habitaciones. Con pensamiento creativo, resolución de problemas, trabajo en equipo, comunicación y
+Full Stack Developer con formación como Desarrollador Web. Experiencia
+trabajando en NodeJS, React, Redux, SQL entre otras tecnologías del sector.
+Trabaje en la creación de una pagina para la administracion de habitaciones de
+un Hostel, la cual podria agregar, eliminar y dar de baja las habitaciones. Con
+pensamiento creativo, resolución de problemas, trabajo en equipo, comunicación y
 autonomía.
 ```
 
