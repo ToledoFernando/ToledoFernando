@@ -17,15 +17,15 @@ autonomía.
 
 ### FrontEnd ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤBackEnd
 
-• <span style="color:#fff; background: #f87021; padding: 1px 3px; border-radius: 4px">HTML5</span>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• <span style="color:#fff; background: green; padding: 1px 3px; border-radius: 4px">NodeJS</span>
+• HTML5ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• NodeJS
 
-• <span style="color:#fff; background: #268ff3; padding: 1px 3px; border-radius: 4px">CSS3</span>ㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• <span style="color:#000; background: #fff; padding: 1px 3px; border-radius: 4px">Express</span>
+• CSS3ㅤ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• Express
 
-• <span style="color:#fff; background: #d6c936; padding: 1px 3px; border-radius: 4px">JAVASCRIPT</span>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• <span style="color:#fff; background: #872f8a; padding: 1px 3px; border-radius: 4px">PostgreSQL</span>
+• JAVASCRIPTㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• PostgreSQL
 
-• <span style="color:#fff; background: #099af4; padding: 1px 3px; border-radius: 4px">ReactJS</span>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• <span style="color:#fff; background: #3d46ae; padding: 1px 3px; border-radius: 4px">Sequelize</span>
+• ReactJSㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ• Sequelize
 
-• <span style="color:#fff; background: #a436a8; padding: 1px 3px; border-radius: 4px">Redux</span>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+• Reduxㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 # Link directo a [Mi LinkedIn](https://www.linkedin.com/in/toledo-fernando-266612245/)
 
