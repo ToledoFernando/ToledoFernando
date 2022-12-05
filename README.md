@@ -31,6 +31,16 @@ Me concidero una persona responsable y con ganas de seguir aprendiendo :).
 
 > ## Algunos Proyectos
 
+## Henry (Proyecto Grupal) - Hostel Dinamita ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤnov. 01 - nov. 30
+
+- ReactJS
+- Redux
+- PostgreSQL
+- Sequelize
+- Express
+
+[Repo](https://github.com/kripto-c/HostelProject)
+
 ### Henry - Food App ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ sep. 26 - oct. 26
 
 - ReactJS
@@ -46,9 +56,3 @@ Me concidero una persona responsable y con ganas de seguir aprendiendo :).
 - ReactJS
 
 [Repo](https://github.com/ToledoFernando/Rick-y-Morty_Prueba)
-
-### Crud con ReactJS usando LocalStorage
-
-- ReactJS
-
-[Repo](https://github.com/ToledoFernando/crud-ReactJS)
