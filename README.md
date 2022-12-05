@@ -31,7 +31,7 @@ Me concidero una persona responsable y con ganas de seguir aprendiendo :).
 
 > ## Algunos Proyectos
 
-## Henry (Proyecto Grupal) - Hostel Dinamita ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤnov. 01 - nov. 30
+### Henry (Proyecto Grupal) - Hostel Dinamita ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤnov. 01 - nov. 30
 
 - ReactJS
 - Redux
