@@ -27,8 +27,6 @@ Me concidero una persona responsable y con ganas de seguir aprendiendo :).
 ![Sequelize](./svg/sequelize-svgrepo-com.svg)
 ![PostgreSQL](./svg/pgsql-svgrepo-com.svg)
 
-# Link directo a [Mi LinkedIn](https://www.linkedin.com/in/toledo-fernando-266612245/)
-
 > ## Algunos Proyectos
 
 ### Henry (Proyecto Grupal) - Hostel Dinamita ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤnov. 01 - nov. 30
@@ -56,3 +54,7 @@ Me concidero una persona responsable y con ganas de seguir aprendiendo :).
 - ReactJS
 
 [Repo](https://github.com/ToledoFernando/Rick-y-Morty_Prueba)
+
+# Link de [Mi LinkedIn](https://www.linkedin.com/in/toledo-fernando-266612245/)
+
+# Link de [Gmail](https://mail.google.com/mail/u/0/?fs=1&to=toledoferchu3@gmail.com&tf=cm)
