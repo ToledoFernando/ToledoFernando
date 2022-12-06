@@ -14,18 +14,18 @@ Me concidero una persona responsable y con ganas de seguir aprendiendo :).
 
 ### Front End
 
-![HTML5](https://firebasestorage.googleapis.com/v0/b/imgs-b915c.appspot.com/o/html-svgrepo-com.svg?alt=media&token=627b7a54-386b-4624-ba35-458ff2c2937a)
-![CSS3](https://firebasestorage.googleapis.com/v0/b/imgs-b915c.appspot.com/o/css-svgrepo-com.svg?alt=media&token=3f53a874-ce61-4bad-9206-a0144a798db0)
-![Javascript](https://firebasestorage.googleapis.com/v0/b/imgs-b915c.appspot.com/o/js-svgrepo-com.svg?alt=media&token=a46bc8ad-bbaf-4714-b3e1-d862daefdf5b)
-![ReactJS](https://firebasestorage.googleapis.com/v0/b/imgs-b915c.appspot.com/o/reactjs-svgrepo-com.svg?alt=media&token=9a8c410f-1b39-42b3-beba-e3d57658eb80)
-![Redux](https://firebasestorage.googleapis.com/v0/b/imgs-b915c.appspot.com/o/redux-svgrepo-com.svg?alt=media&token=02c6fbfb-39e7-43d3-a58e-a1a6d28437c5)
+![HTML5](./svg/html-svgrepo-com.svg)
+![CSS3](./svg/css-svgrepo-com.svg)
+![Javascript](./svg/js-svgrepo-com.svg)
+![ReactJS](./svg/reactjs-svgrepo-com.svg)
+![Redux](./svg/redux-svgrepo-com.svg)
 
 ### Back End
 
-![NodeJS](https://firebasestorage.googleapis.com/v0/b/imgs-b915c.appspot.com/o/nodejs-icon-logo-svgrepo-com.svg?alt=media&token=a4467eb5-d6a7-4be4-9ab1-5876e5be5c35)
-![ExpressJS](https://firebasestorage.googleapis.com/v0/b/imgs-b915c.appspot.com/o/express-svgrepo-com.svg?alt=media&token=78040ada-e5fa-449d-bb78-ff1d4f289313)
-![Sequelize](https://firebasestorage.googleapis.com/v0/b/imgs-b915c.appspot.com/o/sequelize-svgrepo-com.svg?alt=media&token=3f3ba967-6046-49a9-8fe1-fb2d6faa1111)
-![PostgreSQL](https://firebasestorage.googleapis.com/v0/b/imgs-b915c.appspot.com/o/pgsql-svgrepo-com.svg?alt=media&token=703e5c62-2616-4698-bf30-f29f57d34ef5)
+![NodeJS](./svg/nodejs-icon-logo-svgrepo-com.svg)
+![ExpressJS](./svg/express-svgrepo-com.svg)
+![Sequelize](./svg/sequelize-svgrepo-com.svg)
+![PostgreSQL](./svg/pgsql-svgrepo-com.svg)
 
 # Link directo a [Mi LinkedIn](https://www.linkedin.com/in/toledo-fernando-266612245/)
 
@@ -38,6 +38,8 @@ Me concidero una persona responsable y con ganas de seguir aprendiendo :).
 - PostgreSQL
 - Sequelize
 - Express
+
+<p style='background-color: blue; padding: 2px 3px; border-radius: 4px; color: #fff; width: max-content;'>ReactJS</p>
 
 [Repo](https://github.com/kripto-c/HostelProject)
 
