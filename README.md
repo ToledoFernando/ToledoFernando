@@ -39,8 +39,6 @@ Me concidero una persona responsable y con ganas de seguir aprendiendo :).
 - Sequelize
 - Express
 
-<p style='background-color: blue; padding: 2px 3px; border-radius: 4px; color: #fff; width: max-content;'>ReactJS</p>
-
 [Repo](https://github.com/kripto-c/HostelProject)
 
 ### Henry - Food App ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ sep. 26 - oct. 26
