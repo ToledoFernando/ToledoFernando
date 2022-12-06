@@ -55,6 +55,6 @@ Me concidero una persona responsable y con ganas de seguir aprendiendo :).
 
 [Repo](https://github.com/ToledoFernando/Rick-y-Morty_Prueba)
 
-# Link de [Mi LinkedIn](https://www.linkedin.com/in/toledo-fernando-266612245/)
+# Contactame
 
-# Link de [Gmail](https://mail.google.com/mail/u/0/?fs=1&to=toledoferchu3@gmail.com&tf=cm)
+<a href='https://www.linkedin.com/in/toledo-fernando-266612245/'><img width='35' src=./svg/linkedin-svgrepo-com.svg/></a>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href='https://mail.google.com/mail/u/0/?fs=1&to=toledoferchu3@gmail.com&tf=cm'><img width='35' src=./svg/gmail-svgrepo-com.svg/></a>
