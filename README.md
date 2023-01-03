@@ -57,4 +57,5 @@ Me concidero una persona responsable y con ganas de seguir aprendiendo :).
 
 # Contactame
 
-<a href='https://www.linkedin.com/in/toledo-fernando-266612245/'><img width='35' src=./svg/linkedin-svgrepo-com.svg/></a>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href='https://mail.google.com/mail/u/0/?fs=1&to=toledof764@gmail.com&tf=cm'><img width='35' src=./svg/gmail-svgrepo-com.svg/></a>
+<a href='https://www.linkedin.com/in/toledo-fernando-266612245/'><img width='35' src=./svg/linkedin-svgrepo-com.svg/></a>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href='https://mail.google.com/mail/u/0/?fs=1&to=toledof764@gmail.com&tf=cm'><img width='35' src=./svg/gmail-svgrepo-com.svg/></a> 
+
