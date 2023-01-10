@@ -6,7 +6,8 @@
 
 ```
 Full Stack Developer con formación como Desarrollador Web. Experiencia
-trabajando en React, Redux, Sass, NodeJS, Express, bases de datos SQL (postgreSQL) con Sequelize y noSQL (MongoDB) con Mongoose entre otras tecnologías del sector.
+trabajando en React, Redux, Sass, NodeJS, Express, bases de datos SQL (postgreSQL y Sequelize)
+ y noSQL (MongoDB y mongoose) entre otras tecnologías del sector.
 Me concidero una persona responsable y con ganas de seguir aprendiendo :).
 ```
 
