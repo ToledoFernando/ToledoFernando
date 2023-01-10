@@ -6,7 +6,7 @@
 
 ```
 Full Stack Developer con formación como Desarrollador Web. Experiencia
-trabajando en NodeJS, React, Redux, SQL entre otras tecnologías del sector.
+trabajando en React, Redux, Sass, NodeJS, Express, bases de datos SQL (postgreSQL) con Sequelize y noSQL (MongoDB) con Mongoose entre otras tecnologías del sector.
 Me concidero una persona responsable y con ganas de seguir aprendiendo :).
 ```
 
@@ -19,6 +19,7 @@ Me concidero una persona responsable y con ganas de seguir aprendiendo :).
 ![Javascript](./svg/js-svgrepo-com.svg)
 ![ReactJS](./svg/reactjs-svgrepo-com.svg)
 ![Redux](./svg/redux-svgrepo-com.svg)
+![Sass](./svg/sass.svg)
 
 ### Back End
 
@@ -26,6 +27,8 @@ Me concidero una persona responsable y con ganas de seguir aprendiendo :).
 ![ExpressJS](./svg/express-svgrepo-com.svg)
 ![Sequelize](./svg/sequelize-svgrepo-com.svg)
 ![PostgreSQL](./svg/pgsql-svgrepo-com.svg)
+![MongoDB](./svg/mongodb.svg)
+![Scrum](./svg/scrum.svg)
 
 > ## Algunos Proyectos
 
@@ -57,5 +60,4 @@ Me concidero una persona responsable y con ganas de seguir aprendiendo :).
 
 # Contactame
 
-<a href='https://www.linkedin.com/in/toledo-fernando-266612245/'><img width='35' src=./svg/linkedin-svgrepo-com.svg/></a>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href='https://mail.google.com/mail/u/0/?fs=1&to=toledof764@gmail.com&tf=cm'><img width='35' src=./svg/gmail-svgrepo-com.svg/></a> 
-
+<a href='https://www.linkedin.com/in/toledo-fernando-266612245/'><img width='35' src=./svg/linkedin-svgrepo-com.svg/></a>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ<a href='https://mail.google.com/mail/u/0/?fs=1&to=toledof764@gmail.com&tf=cm'><img width='35' src=./svg/gmail-svgrepo-com.svg/></a>
