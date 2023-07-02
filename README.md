@@ -9,7 +9,7 @@
 
 <p>
 <br/>
-Soy un desarrollador Full Stack con experiencia en el desarrollo web. Me especializo en tecnologías como React, Redux, Sass, Node.js y Express, y tengo conocimientos en bases de datos tanto SQL (PostgreSQL y Sequelize) como noSQL (MongoDB y Mongoose), entre otras tecnologías del sector. Me considero una persona responsable y apasionada por el aprendizaje continuo. Estoy constantemente buscando oportunidades para mejorar mis habilidades y mantenerme al día con las últimas tendencias en el campo.
+Desarrollador Full Stack con experiencia en el desarrollo web junto a tecnologias como React, Redux, Sass, Node.js y Express, y tengo conocimientos en bases de datos tanto SQL (PostgreSQL y Sequelize) como noSQL (MongoDB y Mongoose), entre otras. Me considero una persona responsable y apasionada por el aprendizaje continuo. Estoy constantemente buscando oportunidades para mejorar mis habilidades y mantenerme al día con las últimas tendencias en el campo.
 <br/><br/>
 </p>
 
