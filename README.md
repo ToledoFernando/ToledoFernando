@@ -5,7 +5,7 @@
 </p>
     <p align="center">Soy <strong>Desarrollador web Full Stack</strong>! <br /><br /></p>
 
-## **Sobre mi**
+# **Sobre mi**
 
 <p>
 <br/>
