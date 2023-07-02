@@ -1,15 +1,15 @@
 <!-- ![alt text](https://firebasestorage.googleapis.com/v0/b/imgs-b915c.appspot.com/o/hello-world-3152076527.jpg?alt=media&token=164a099a-c390-4d16-9887-84062a72b4a9) -->
 
 <p align="center" width="300">
-    <h3 align="center">¡Hola 👋! Soy Toledo Fernando 👨🏻‍💻</h3>
+    <h2 align="center">¡Hola 👋! Soy Toledo Fernando 👨🏻‍💻</h2>
 </p>
-    <p align="center">Soy <strong>Desarrollador web Full Stack</strong>!</p>
+    <p align="center">Soy <strong>Desarrollador web Full Stack</strong>! <br /><br /></p>
 
-> ## Sobre mi
+# **Sobre mi**
 
 <p>
 <br/>
-Soy un desarrollador Full Stack con experiencia en el desarrollo web. Me especializo en tecnologías como React, Redux, Sass, Node.js y Express, y tengo conocimientos en bases de datos tanto SQL (PostgreSQL y Sequelize) como noSQL (MongoDB y Mongoose), entre otras tecnologías del sector. Me considero una persona responsable y apasionada por el aprendizaje continuo. Estoy constantemente buscando oportunidades para mejorar mis habilidades y mantenerme al día con las últimas tendencias en el campo.
+Desarrollador Full Stack con experiencia en el desarrollo web junto a tecnologias como React, Redux, Sass, Node.js y Express, y tengo conocimientos en bases de datos tanto SQL (PostgreSQL y Sequelize) como noSQL (MongoDB y Mongoose), entre otras. Me considero una persona responsable y apasionada por el aprendizaje continuo. Estoy constantemente buscando oportunidades para mejorar mis habilidades y mantenerme al día con las últimas tendencias en el campo.
 <br/><br/>
 </p>
 
