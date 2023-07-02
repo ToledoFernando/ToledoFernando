@@ -1,11 +1,11 @@
 <!-- ![alt text](https://firebasestorage.googleapis.com/v0/b/imgs-b915c.appspot.com/o/hello-world-3152076527.jpg?alt=media&token=164a099a-c390-4d16-9887-84062a72b4a9) -->
 
 <p align="center" width="300">
-    <h3 align="center" style="font-size: 40px;">¡Hola 👋! Soy Toledo Fernando 👨🏻‍💻</h3>
+    <h2 align="center" style="font-size: 40px;">¡Hola 👋! Soy Toledo Fernando 👨🏻‍💻</h2>
 </p>
     <p align="center">Soy <strong>Desarrollador web Full Stack</strong>! <br /><br /></p>
 
-# **Sobre mi**
+## **Sobre mi**
 
 <p>
 <br/>
