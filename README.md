@@ -27,8 +27,6 @@ Desarrollador Full Stack con experiencia en el desarrollo web junto a tecnologia
   <img align="center" src="./svg/tailwind-svgrepo-com.svg" alt="html" height="60px" width="70" />
 </p>
 
----
-
 ## **Habilidades en Backend:**
 
 <p align="center">
@@ -40,8 +38,6 @@ Desarrollador Full Stack con experiencia en el desarrollo web junto a tecnologia
   <img align="center" src="./svg/mogoose-logo.webp" alt="html" height="100px" width="80" />
   <img align="center" src="./svg/typescript.svg" alt="html" height="60px" width="70" />
 </p>
-
----
 
 ## - Otras Herramientas y Metodologías
 
