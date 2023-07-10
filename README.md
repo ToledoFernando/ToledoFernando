@@ -44,6 +44,7 @@ Desarrollador Full Stack con experiencia en el desarrollo web junto a tecnologia
 <p align="center">
   <img align="center" src="./svg/scrum.svg" alt="html" height="60px" width="70" />
   <img align="center" src="./svg/nextjs-fill-svgrepo-com.svg" alt="html" height="50px" width="70" /> 
+  <img align="center" src="./svg/vitejs-svgrepo-com.svg" alt="html" height="50px" width="70" /> 
   <img align="center" src="./svg/git-svgrepo-com.svg" alt="html" height="50px" width="70" /> 
 </p>
 
