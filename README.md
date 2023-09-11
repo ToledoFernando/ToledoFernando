@@ -105,6 +105,6 @@ Desarrollador Full Stack con experiencia en el desarrollo web junto a tecnologia
 # Contactame
 
 <p align="center">
-<a href='https://www.linkedin.com/in/toledo-fernando-266612245/'><img width='20%' height="50" src=./svg/linkedin-svgrepo-com.svg><a>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+<a href='https://www.linkedin.com/in/fernando-toledo-266612245/'><img width='20%' height="50" src=./svg/linkedin-svgrepo-com.svg><a>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 <a href='https://mail.google.com/mail/u/0/?fs=1&to=toledof764@gmail.com&tf=cm'><img width='20%' height="50" src=./svg/gmail-svgrepo-com.svg/></a>
 </p>
