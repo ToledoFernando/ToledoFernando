@@ -110,8 +110,6 @@ Aplicación desarrollada para administrar socios, planes y cuotas, con aislamien
 
 **Stack:** React · TypeScript · Supabase · PostgreSQL · Edge Functions · Zustand · TanStack Query · React Hook Form · Zod · GSAP
 
-🔗 [Ver proyecto](https://github.com/ToledoFernando)
-
 ---
 
 ### 📱 ADBscope
