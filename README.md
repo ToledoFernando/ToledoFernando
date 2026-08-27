@@ -1,110 +1,224 @@
-<!-- ![alt text](https://firebasestorage.googleapis.com/v0/b/imgs-b915c.appspot.com/o/hello-world-3152076527.jpg?alt=media&token=164a099a-c390-4d16-9887-84062a72b4a9) -->
+<div align="center">
 
-<p align="center" width="300">
-    <h2 align="center" style="font-size: 40px;">¡Hola 👋! Soy Toledo Fernando 👨🏻‍💻</h2>
-</p>
-    <p align="center">Soy <strong>Desarrollador web Full Stack</strong>! <br /><br /></p>
+# 👋 Hola, soy Fernando Toledo
 
-# **Sobre mi**
+### Full-Stack Developer · React · Next.js · TypeScript · Node.js
 
 <p>
-<br/>
-Desarrollador Full Stack con experiencia en el desarrollo web junto a tecnologias como React, Redux, Sass, Node.js y Express, tambien cuento con conocimientos en bases de datos tanto SQL (PostgreSQL y Sequelize) como noSQL (MongoDB y Mongoose), entre otras. Me considero una persona responsable y apasionada por el aprendizaje continuo. Estoy constantemente buscando oportunidades para mejorar mis habilidades y mantenerme al día con las últimas tendencias en el campo.
-<br/><br/>
+  <a href="https://toledo.bio">🌐 Portfolio</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/toledo-fernando-266612245/">💼 LinkedIn</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:toledof764@gmail.com">📩 Email</a>
 </p>
 
-## **Habilidades en Frontend:**
+</div>
+
+---
+
+## 👨🏻‍💻 Sobre mí
+
+Soy **Full-Stack Developer** de Salta, Argentina, con **3 años de experiencia profesional** desarrollando aplicaciones web, mobile y de escritorio.
+
+Mi fuerte está en el **frontend**, principalmente dentro del ecosistema **TypeScript**, trabajando con React, Next.js y React Native. También tengo experiencia desarrollando APIs y servicios backend con Node.js, Express y TypeORM.
+
+Me interesa construir productos que sean **escalables, mantenibles y agradables de usar**, participando tanto en la interfaz como en la lógica de negocio, APIs y bases de datos.
+
+Actualmente estoy **disponible para nuevas oportunidades**.
+
+---
+
+## 🛠️ Stack
+
+### Frontend
+
+<p>
+  <img src="./svg/html-svgrepo-com.svg" height="40" alt="HTML" />
+  <img src="./svg/css-svgrepo-com.svg" height="40" alt="CSS" />
+  <img src="./svg/js-svgrepo-com.svg" height="40" alt="JavaScript" />
+  <img src="./svg/typescript.svg" height="40" alt="TypeScript" />
+  <img src="./svg/reactjs-svgrepo-com.svg" height="40" alt="React" />
+  <img src="./svg/nextjs-fill-svgrepo-com.svg" height="40" alt="Next.js" />
+  <img src="./svg/tailwind-svgrepo-com.svg" height="40" alt="Tailwind CSS" />
+  <img src="./svg/sass.svg" height="40" alt="Sass" />
+  <img src="./svg/zustandLogo.png" height="40" alt="Zustand" />
+</p>
+
+`React` · `Next.js` · `React Native` · `TypeScript` · `JavaScript` · `Astro` · `Tailwind CSS` · `NativeWind` · `Zustand` · `Redux` · `GSAP`
+
+### Backend & Data
+
+<p>
+  <img src="./svg/nodejs-icon-logo-svgrepo-com.svg" height="40" alt="Node.js" />
+  <img src="./svg/express-svgrepo-com.svg" height="40" alt="Express" />
+  <img src="./svg/pgsql-svgrepo-com.svg" height="40" alt="PostgreSQL" />
+  <img src="./svg/mongodb.svg" height="40" alt="MongoDB" />
+</p>
+
+`Node.js` · `Express` · `TypeORM` · `Sequelize` · `PostgreSQL` · `MongoDB` · `Mongoose` · `Bun` · `ElysiaJS`
+
+### Tools & Cloud
+
+`Git` · `Vercel` · `Google Cloud` · `Supabase` · `Expo` · `Electron` · `Wails` · `VS Code`
+
+---
+
+## 💼 Experiencia
+
+### Open Business — Full-Stack Developer
+
+**2023 — 2026 · Remoto**
+
+Desarrollo de funcionalidades para la gestión integral del flujo de pedidos, trabajando principalmente en **backoffice y aplicaciones mobile**, además de participar en el desarrollo backend.
+
+* Desarrollo de interfaces con **React y Next.js**.
+* Desarrollo mobile con **React Native y Expo**.
+* Desarrollo de APIs y lógica de negocio con **Node.js, Express y TypeORM**.
+* Trabajo con **PostgreSQL**.
+* Migración de **Expo SDK 50 → 54**.
+* Modernización de interfaces utilizando **NativeWind**.
+* Mejoras de rendimiento y experiencia de usuario.
+
+**Stack:** React · Next.js · TypeScript · React Native · Expo · NativeWind · Node.js · Express · TypeORM · PostgreSQL
+
+### Marloyal Energy — Full-Stack Developer
+
+**2022 — 2023 · Remoto**
+
+Desarrollo integral de una plataforma web, desde el sitio corporativo hasta la aplicación y backend.
+
+* Landing corporativa desarrollada con **Astro**.
+* Aplicación web con **React y Next.js**.
+* Autenticación y dashboard.
+* Backend y APIs con **Node.js y Express**.
+* Persistencia con **MongoDB y Mongoose**.
+* Integración de pagos con **Stripe**.
+* Implementación de webhooks y flujo post-pago.
+* Interfaces con **Material UI** y manejo de estado con **Zustand**.
+
+**Stack:** Astro · React · Next.js · TypeScript · Tailwind CSS · Material UI · Zustand · Node.js · Express · MongoDB · Mongoose · Stripe
+
+---
+
+## 🚀 Proyectos destacados
+
+### 💳 Cuotera
+
+**SaaS multi-tenant para gestión de membresías y cobros recurrentes.**
+
+Aplicación desarrollada para administrar socios, planes y cuotas, con aislamiento de datos mediante **RLS** e integración con **Mercado Pago**.
+
+**Stack:** React · TypeScript · Supabase · PostgreSQL · Edge Functions · Zustand · TanStack Query · React Hook Form · Zod · GSAP
+
+🔗 [Ver proyecto](https://github.com/ToledoFernando)
+
+---
+
+### 📱 ADBscope
+
+**Aplicación de escritorio para gestionar dispositivos Android.**
+
+Permite conectarse mediante ADB y consultar información del dispositivo, realizar screen mirroring, visualizar logs y utilizar una terminal ADB.
+
+**Stack:** Go · Wails · React · TypeScript · Tailwind CSS · GSAP
+
+🔗 [Ver proyecto](https://adbscope.online/)
+
+---
+
+### ⚡ NovaLanding
+
+Landing desarrollada para pequeños negocios, enfocada en **presencia online, SEO y rendimiento**.
+
+**Lighthouse:** `98 Performance` · `100 SEO`
+
+**Stack:** Astro · TypeScript · Tailwind CSS · GSAP
+
+🔗 [Visitar sitio](https://novalanding.online/)
+
+---
+
+### ✨ Salón Genesis
+
+Landing desarrollada para un salón de belleza real, enfocada en presentar servicios y facilitar el contacto con el negocio.
+
+**Lighthouse:** `98 Performance` · `100 SEO`
+
+**Stack:** Astro · TypeScript · Tailwind CSS · GSAP
+
+🔗 [Visitar sitio](https://salongenesis.online/)
+
+---
+
+### 🏨 PF — Dinamita Hostel
+
+Proyecto final de **SoyHenry**, desarrollado en equipo junto a otros 7 desarrolladores.
+
+Plataforma de gestión y reserva de hospedajes, participando tanto en frontend como backend.
+
+**Stack:** React · TypeScript · Sass · Redux · Node.js · Express · Sequelize · PostgreSQL
+
+🔗 [Ver repositorio](https://github.com/kripto-c/HostelProject)
+
+---
+
+## 📊 Algunos números
+
+<div align="center">
+
+**3+**
+Años de experiencia profesional
+
+    
+
+**Web · Mobile · Desktop**
+Experiencia en múltiples plataformas
+
+    
+
+**Full-Stack**
+Frontend + Backend + APIs + Databases
+
+</div>
+
+---
+
+## 🌎 Actualmente
+
+📍 **Salta, Argentina**
+
+💻 **Full-Stack Developer**
+
+🎯 **Foco:** Frontend & TypeScript
+
+🟢 **Disponible para nuevas oportunidades**
+
+---
+
+## 📬 Contacto
+
+Si querés charlar sobre un proyecto, una oportunidad laboral o simplemente intercambiar una idea, podés encontrarme acá:
 
 <p align="center">
-  <img align="center" src="./svg/html-svgrepo-com.svg" alt="html" height="60px" width="70" />
-  <img align="center" src="./svg/css-svgrepo-com.svg" alt="html" height="60px" width="70" />
-  <img align="center" src="./svg/js-svgrepo-com.svg" alt="html" height="60px" width="70" />
-  <img align="center" src="./svg/typescript.svg" alt="html" height="60px" width="70" />
-  <img align="center" src="./svg/reactjs-svgrepo-com.svg" alt="html" height="60px" width="70" />
-  <img align="center" src="./svg/redux-svgrepo-com.svg" alt="html" height="60px" width="70" />
-  <img align="center" src="./svg/sass.svg" alt="html" height="60px" width="70" />
-  <img align="center" src="./svg/zustandLogo.png" alt="html" height="60px" width="100" />
-  <img align="center" src="./svg/tailwind-svgrepo-com.svg" alt="html" height="60px" width="70" />
+  <a href="https://toledo.bio">
+    <strong>🌐 toledo.bio</strong>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/toledo-fernando-266612245/">
+    <strong>LinkedIn</strong>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="mailto:toledof764@gmail.com">
+    <strong>Email</strong>
+  </a>
 </p>
 
-## **Habilidades en Backend:**
+---
 
-<p align="center">
-  <img align="center" src="./svg/nodejs-icon-logo-svgrepo-com.svg" alt="html" height="60px" width="70" />
-  <img align="center" src="./svg/express-svgrepo-com.svg" alt="html" height="60px" width="70" />
-  <img align="center" src="./svg/sequelize-svgrepo-com.svg" alt="html" height="60px" width="70" />
-  <img align="center" src="./svg/pgsql-svgrepo-com.svg" alt="html" height="60px" width="70" />
-  <img align="center" src="./svg/mongodb.svg" alt="html" height="60px" width="70" />
-  <img align="center" src="./svg/mogoose-logo.webp" alt="html" height="100px" width="80" />
-  <img align="center" src="./svg/typescript.svg" alt="html" height="60px" width="70" />
-</p>
+<div align="center">
 
-## - Otras Herramientas y Metodologías
+### Gracias por pasar 👋
 
-<p align="center">
-  <img align="center" src="./svg/scrum.svg" alt="html" height="60px" width="70" />
-  <img align="center" src="./svg/nextjs-fill-svgrepo-com.svg" alt="html" height="50px" width="70" /> 
-  <img align="center" src="./svg/vitejs-svgrepo-com.svg" alt="html" height="50px" width="70" /> 
-  <img align="center" src="./svg/git-svgrepo-com.svg" alt="html" height="50px" width="70" /> 
-</p>
+<sub>Construyendo productos, aprendiendo cosas nuevas y tratando de hacer software un poquito mejor cada día.</sub>
 
-# **Algunos Proyectos:**
-
-## ElectronPlayer - App Desktopㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-
-#### Marzo 2022 - Abril 2022
-
-- ElectronJS
-- Typescript
-- Zustand
-- React
-- Sass
-
-[Repo](https://github.com/ToledoFernando/newElectronPlayer)
-
-## ElectronPlayer - Web
-
-#### Marzo 2022 - Abril 2022
-
-- NextJS
-- React
-- TailwindCSS
-
-[Repo](https://github.com/ToledoFernando/electronplayerpage2) - [Web](https://electronplayer.online/)
-
-## Henry (Proyecto Grupal) - Hostel Dinamita ㅤ
-
-#### Noviembre 2022 - Diciembre 2022
-
-- ReactJS
-- Redux
-- PostgreSQL
-- Sequelize
-- Express
-
-[Repo](https://github.com/kripto-c/HostelProject)
-
-## Henry - Food App ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-
-#### Septiembre 2022 - Noviembre 2022
-
-- ReactJS
-- Redux
-- PostgreSQL
-- Sequelize
-- Express
-
-[Repo](https://github.com/ToledoFernando/HenryFood)
-
-## Rick y Morty
-
-- ReactJS
-
-[Repo](https://github.com/ToledoFernando/Rick-y-Morty_Prueba)
-
-# Contactame
-
-<p align="center">
-<a href='https://www.linkedin.com/in/fernando-toledo-266612245/'><img width='20%' height="50" src=./svg/linkedin-svgrepo-com.svg><a>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
-<a href='https://mail.google.com/mail/u/0/?fs=1&to=toledof764@gmail.com&tf=cm'><img width='20%' height="50" src=./svg/gmail-svgrepo-com.svg/></a>
-</p>
+</div>
