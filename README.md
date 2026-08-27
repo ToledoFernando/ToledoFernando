@@ -160,27 +160,6 @@ Plataforma de gestión y reserva de hospedajes, participando tanto en frontend c
 
 ---
 
-## 📊 Algunos números
-
-<div align="center">
-
-**3+**
-Años de experiencia profesional
-
-    
-
-**Web · Mobile · Desktop**
-Experiencia en múltiples plataformas
-
-    
-
-**Full-Stack**
-Frontend + Backend + APIs + Databases
-
-</div>
-
----
-
 ## 🌎 Actualmente
 
 📍 **Salta, Argentina**
