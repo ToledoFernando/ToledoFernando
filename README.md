@@ -1,16 +1,21 @@
 <div align="center">
 
-# 👋 Hola, soy Fernando Toledo
+<img src="./profile-banner.jpg" />
 
-### Full-Stack Developer · React · Next.js · TypeScript · Node.js
+<br />
+<br />
 
-<p>
-  <a href="https://toledo.bio">🌐 Portfolio</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/toledo-fernando-266612245/">💼 LinkedIn</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="mailto:toledof764@gmail.com">📩 Email</a>
-</p>
+<img src="https://img.shields.io/badge/LOCATION-Salta%2C%20Argentina-252932?style=flat-square&labelColor=7C3AED" alt="Location: Salta, Argentina" />
+<img src="https://img.shields.io/badge/FOCUS-Web%20%26%20Mobile-252932?style=flat-square&labelColor=2563EB" alt="Focus: Web and Mobile" />
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20opportunities-252932?style=flat-square&labelColor=16805D" alt="Open to opportunities" />
+
+<!-- <img src="https://img.shields.io/badge/LOCATION-Salta%2C%20Argentina-252932?style=flat-square" alt="Location: Salta, Argentina" />
+<img src="https://img.shields.io/badge/FOCUS-Web%20%26%20Mobile-252932?style=flat-square" alt="Focus: Web and Mobile" />
+<img src="https://img.shields.io/badge/STATUS-Open%20to%20opportunities-252932?style=flat-square" alt="Open to opportunities" /> -->
+
+<br />
+
+<!-- 🟢 **Disponible para nuevas oportunidades** -->
 
 </div>
 
@@ -123,7 +128,7 @@ Permite conectarse mediante ADB y consultar información del dispositivo, realiz
 🔗 [Ver proyecto](https://adbscope.online/)
 
 ---
-
+<!-- 
 ### ⚡ NovaLanding
 
 Landing desarrollada para pequeños negocios, enfocada en **presencia online, SEO y rendimiento**.
@@ -134,7 +139,7 @@ Landing desarrollada para pequeños negocios, enfocada en **presencia online, SE
 
 🔗 [Visitar sitio](https://novalanding.online/)
 
----
+--- -->
 
 ### ✨ Salón Genesis
 
@@ -157,18 +162,6 @@ Plataforma de gestión y reserva de hospedajes, participando tanto en frontend c
 **Stack:** React · TypeScript · Sass · Redux · Node.js · Express · Sequelize · PostgreSQL
 
 🔗 [Ver repositorio](https://github.com/kripto-c/HostelProject)
-
----
-
-## 🌎 Actualmente
-
-📍 **Salta, Argentina**
-
-💻 **Full-Stack Developer**
-
-🎯 **Foco:** Frontend & TypeScript
-
-🟢 **Disponible para nuevas oportunidades**
 
 ---
 
